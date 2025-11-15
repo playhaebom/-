@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 플래시 메이커",
+  "description": "Gemini API를 사용하여 모든 주제에 대한 질문과 답변 플래시카드를 생성하는 애플리케이션입니다. 사용자는 학습 주제를 입력할 수 있으며, 앱은 학습 및 복습에 도움이 되는 플래시카드 세트를 만듭니다.",
+  "requestFramePermissions": []
+}
